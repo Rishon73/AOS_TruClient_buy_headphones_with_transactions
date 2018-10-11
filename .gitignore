@@ -11,4 +11,13 @@
 **/data/
 **/snapshots/
 *.log
+
 mdrv_cmd.txt
+CompilerLogMetadata.xml
+McRuntime.properties
+OutputColoringDatabase.json
+ReplaySummaryReport.xml
+output.bak
+output.txt
+Bookmarks.xml
+Breakpoints.xml

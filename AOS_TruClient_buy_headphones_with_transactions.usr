@@ -2,13 +2,13 @@
 Type=TC4Mobile
 DefaultCfg=default.cfg
 MajorVersion=12
-MinorVersion=56
+MinorVersion=60
 ParameterFile=
 GlobalParameterFile=
 NewFunctionHeader=1
 LastActiveAction=Script-View
 DevelopTool=Vugen
-LastModifyVer=12.56.0.985
+LastModifyVer=12.60.0.971
 ActiveTypes=TC4Mobile
 AdditionalTypes=TC4Mobile
 GenerateTypes=TC4Mobile
@@ -16,7 +16,7 @@ ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
 RunType=cci
-LastCodeGenerationVer=12.56.0.985
+LastCodeGenerationVer=12.60.0.971
 DisableRegenerate=0
 Encoding=
 Description=
@@ -57,14 +57,14 @@ Action=0
 Script-View=0
 vuser_end=0
 [Replayed Actions]
-vuser_init=0
-Action=0
+vuser_init=1
+Action=1
 Script-View=1
-vuser_end=0
+vuser_end=1
 [TransactionsOrder]
 Order="01_login__*delimiter*__02_select_and _put_in_cart__*delimiter*__03_checkout_and_pay__*delimiter*__04_sign_out"
 [StateManagement]
-LastReplayStatus=0
+LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=
